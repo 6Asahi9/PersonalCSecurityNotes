@@ -12,9 +12,12 @@ Most companies have an admin portal page, giving their staff access to basic adm
 Due to human error or negligence, there may be instances when these pages are not made private, 
 allowing attackers to find hidden pages that show or give access to admin controls or sensitive data.
 To begin, type the following command into the terminal to find potentially hidden pages on FakeBank's website using Gobuster (a command-line security application).
-/-------------------------------------------------/
+
+/----------------------------
 gobuster -u http://fakebank.thm -w wordlist.txt dir
-/-------------------------------------------------/
+/----------------------------
+
+![Screenshot](../images/offensiveS1.png)
 
 3. In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
 You will see that Gobuster scans the website with each word in the list, finding pages that exist on the site. Gobuster will have told you the pages in the list of page/directory names (indicated by Status: 200).
