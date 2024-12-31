@@ -14,13 +14,13 @@ Unauthorized activity: Consider the case where a user’s login name and passwor
 Network intrusions: No matter how good your security is, there is always a chance for an intrusion. An intrusion can occur when a user clicks on a malicious link or when an attacker exploits a public server. Either way, when an intrusion occurs, we must detect it as soon as possible to prevent further damage.
 Security operations cover various tasks to ensure protection; one such task is threat intelligence.
 
-![Screenshot](../images/image1.png)
+![Screenshot](../../images/image1.png)
 
 *Threat Intelligence*
 
 In this context, intelligence refers to information you gather about actual and potential enemies. A threat is any action that can disrupt or adversely affect a system. Threat intelligence collects information to help the company better prepare against potential adversaries. The purpose would be to achieve a threat-informed defence. Different companies have different adversaries. Some adversaries might seek to steal customer data from a mobile operator; however, other adversaries are interested in halting the production in a petroleum refinery. Example adversaries include a nation-state cyber army working for political reasons and a ransomware group acting for financial purposes. Based on the company (target), we can expect adversaries.
 
-![Screenshot](../images/image2.png)
+![Screenshot](../../images/image2.png)
 
 Intelligence needs data. Data has to be collected, processed, and analyzed. Data is collected from local sources such as network logs and public sources such as forums. Data processing arranges it into a format suitable for analysis. The analysis phase seeks to find more information about the attackers and their motives; moreover, it aims to create a list of recommendations and actionable steps.
 
@@ -53,7 +53,7 @@ The four major phases of the incident response process are:
 3. Containment, Eradication, and Recovery: Once an incident is detected, it is crucial to stop it from affecting other systems, eliminate it, and recover the affected systems. For instance, when we notice that a system is infected with a computer virus, we would like to stop (contain) the virus from spreading to other systems, clean (eradicate) the virus, and ensure proper system recovery.
 4. Post-Incident Activity: After a successful recovery, a report is produced, and the lesson learned is shared to prevent similar future incidents.
 
-![Screenshot](../images/image3.png)
+![Screenshot](../../images/image3.png)
 
 *Malware Analysis*
 Malware stands for malicious software. Software refers to programs, documents, and files you can save on a disk or send over the network. Malware includes many types, such as:
@@ -62,7 +62,7 @@ Malware stands for malicious software. Software refers to programs, documents, a
 2. Trojan Horse is a program that shows one desirable function but hides a malicious function underneath. For example, a victim might download a video player from a shady website that gives the attacker complete control over their system.
 3. Ransomware is a malicious program that encrypts the user’s files. Encryption makes the files unreadable without knowing the encryption password. The attacker offers the user the encryption password if the user is willing to pay a “ransom.”
 
-![Screenshot](../images/image4.png)
+![Screenshot](../../images/image4.png)
 
 Malware analysis aims to learn about such malicious programs using various means:
 
