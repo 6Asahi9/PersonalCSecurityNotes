@@ -6,7 +6,7 @@ Preventing intrusions from occurring
 Detecting intrusions when they occur and responding properly
 Blue teams are part of the defensive security landscape.
 
-![Screenshot](../images/image.png)
+![Screenshot](../../images/image.png)
 
 Some of the tasks that are related to defensive security include:
 
