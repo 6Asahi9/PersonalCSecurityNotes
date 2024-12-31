@@ -1,9 +1,8 @@
 In this task, we will cover two main topics related to defensive security:
+1. Security Operations Center (SOC), where we cover Threat Intelligence
+2. Digital Forensics and Incident Response (DFIR), where we also cover Malware Analysis
 
-Security Operations Center (SOC), where we cover Threat Intelligence
-Digital Forensics and Incident Response (DFIR), where we also cover Malware Analysis
-Security Operations Center (SOC)
-
+*Security Operations Center (SOC)*
 A Security Operations Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events. Some of the main areas of interest for a SOC are:
 
 Vulnerabilities: Whenever a system vulnerability (weakness) is discovered, it is essential to fix it by installing a proper update or patch. When a fix is unavailable, the necessary measures should be taken to prevent an attacker from exploiting it. Although remediating vulnerabilities is vital to a SOC, it is not necessarily assigned to them.
