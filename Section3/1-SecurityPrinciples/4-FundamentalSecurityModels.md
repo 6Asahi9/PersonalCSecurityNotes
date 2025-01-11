@@ -10,7 +10,7 @@ The Bell-LaPadula Model aims to achieve confidentiality by specifying three rule
 * Star Security Property: This property is referred to as “no write down”; it states that a subject at a higher security level cannot write to an object at a lower security level. This rule prevents the disclosure of sensitive information to a subject of lower security level.
 * Discretionary-Security Property: This property uses an access matrix to allow read and write operations. An example access matrix is shown in the table below and used in conjunction with the first two properties.
 
-![](../images/image_2025-01-06_185722804.png)
+![](../../images/image_2025-01-06_185722804.png)
 
 The first two properties can be summarized as “write up, read down.” You can share confidential information with people of higher security clearance (write up), and you can receive confidential information from people with lower security clearance (read down).
 
