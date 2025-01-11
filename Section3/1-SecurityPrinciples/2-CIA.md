@@ -1,4 +1,4 @@
-![](../images/image_2025-01-06_130421066.png)
+![](../../images/image_2025-01-06_130421066.png)
 
 Before we can describe something as secure, we need to consider better what makes up security. When you want to judge the security of a system, you need to think in terms of the security triad: confidentiality, integrity, and availability (CIA).
 
@@ -6,7 +6,7 @@ Before we can describe something as secure, we need to consider better what make
 * Integrity aims to ensure that the data cannot be altered; moreover, we can detect any alteration if it occurs.
 * Availability aims to ensure that the system or service is available when needed.
 
-![](../images/image_2025-01-06_130946174.png)
+![](../../images/image_2025-01-06_130946174.png)
 
 ### Let’s consider the CIA security triad in the case of placing an order for online shopping:
 
@@ -21,7 +21,7 @@ Before we can describe something as secure, we need to consider better what make
 
 The emphasis does not need to be the same on all three security functions. One example would be a university announcement; although it is usually not confidential, the document’s integrity is critical.
 
-![](../images/image_2025-01-06_131209849.png)
+![](../../images/image_2025-01-06_131209849.png)
 
 ### Going one more step beyond the CIA security triad, we can think of:
 
