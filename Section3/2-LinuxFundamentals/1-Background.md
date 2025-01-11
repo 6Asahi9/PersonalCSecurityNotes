@@ -1,3 +1,5 @@
+![](../../images/image_2025-01-11_213459582.png)
+
 ### Where is Linux Used?
 It's fair to say that Linux is a lot more intimidating to approach than Operating System's (OSs) such as Windows. Both variants have their own advantages and disadvantages. For example, Linux is considerably much more lightweight and you'd be surprised to know that there's a good chance you've used Linux in some form or another every day! Linux powers things such as:
 
