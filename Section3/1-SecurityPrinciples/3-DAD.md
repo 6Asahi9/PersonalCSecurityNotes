@@ -1,4 +1,4 @@
-![](../images/image_2025-01-06_184931728.png)
+![](../../images/image_2025-01-06_184931728.png)
 
 The security of a system is attacked through one of several means. It can be via the disclosure of secret data, alteration of data, or destruction of data.
 
